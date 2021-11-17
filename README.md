@@ -1,5 +1,7 @@
 # Cryptocurrency
 
+#### Analysis can be found in the Jupyter Notebook.
+
 ## Background
 
 
